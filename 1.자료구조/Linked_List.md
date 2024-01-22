@@ -1,5 +1,6 @@
 # 1. Singly Linked List
 
+![Singly Linked List](https://github.com/hyul77/hyul-dictionary/blob/main/1.%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/image/Singly%20Linked%20List.png?raw=true)
 Fig. 1 Singly Linked List 예시
  
 
@@ -26,6 +27,7 @@ head라는 노드에서부터 시작해 data1 노드 -> data2 노드 -> data3 �
 # 2. Doubly Linked List
 
 
+![Doubly Linked List](https://github.com/hyul77/hyul-dictionary/blob/main/1.%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/image/Doubly%20Linked%20List.png?raw=true)
 Fig. 2 Doubly Linked List
 
 미리 그림을 설명하자면 화살표 가 겉이 아닌 양 사이드의 사각형 중앙에 존재 해야 옳은 그림이다.
