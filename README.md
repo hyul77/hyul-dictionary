@@ -3,6 +3,10 @@
 
 ## 1. 자료구조
 - Linked List
+- Stack
+- Queue
+- Graph
+- Tree
 
 
 ## 2. 알고리즘
