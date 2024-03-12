@@ -37,6 +37,7 @@
 
 
 ## 10. Hadoop & Sqoop
+- parquet
 
 
 ## 11. Hive
