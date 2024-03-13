@@ -12,6 +12,8 @@
 ## 2. 알고리즘
 - Sorted
 - Red-Black Tree
+- BFS
+- DFS
 - Np
 
 
