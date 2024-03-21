@@ -33,6 +33,7 @@
 
 
 ## 8. 딥러닝
+- Vision Transformer
 
 
 ## 9. AWS
