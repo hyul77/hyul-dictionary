@@ -24,7 +24,6 @@
 
 ## 6. 네트워크
 
-
 ## 7. Linux
 
 ## 8. Compiler
@@ -33,13 +32,9 @@
 
 ## 10. 컴퓨터보안
 
-
 ## 11. 컴퓨터 구조론
 
-
-
 ## 12. 통계학
-
 
 ## 13. AI
 
@@ -97,3 +92,10 @@
 
 
 ## 25. ProDS
+
+
+## Apache Kafka
+## PUB/SUB
+## Streams API
+## Data Parallelism 
+
