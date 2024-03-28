@@ -43,6 +43,7 @@
 ## 15. Spark / Hive
 
 ## 16. Airflow
+- 
 
 ## 17. Hadoop
 
@@ -142,10 +143,11 @@
 
 
 ## 25. ProDS
+- 
 
 
 ## Apache Kafka
 ## PUB/SUB
 ## Streams API
 ## Data Parallelism 
-
+## 
