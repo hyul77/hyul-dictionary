@@ -40,6 +40,9 @@
 - 휴리스틱
 
 ## 14. Docker
+- Docker의 기초
+- Dockerfile
+- Docker-compose
 
 ## 15. Spark / Hive
 
