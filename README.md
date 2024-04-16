@@ -150,6 +150,14 @@
 - 
 
 
+## 26. NCS
+- DB
+- BigData
+- AI
+- 블록체인
+- 시사
+
+
 ## Apache Kafka
 ## PUB/SUB
 ## Streams API
