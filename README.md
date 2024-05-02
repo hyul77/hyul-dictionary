@@ -162,4 +162,4 @@
 ## PUB/SUB
 ## Streams API
 ## Data Parallelism 
-## 
+## dynamic pricing
