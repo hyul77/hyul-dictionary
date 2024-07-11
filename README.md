@@ -50,7 +50,7 @@
 ## 15. Spark / Hive
 
 ## 16. Airflow
-- 
+- 준비
 
 ## 17. Hadoop
 
