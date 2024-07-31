@@ -2,6 +2,7 @@
 
 ## 1. C++
 - coding test
+- 이론
 ## 2. DataBase
 
 ## 3. OS
