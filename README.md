@@ -4,6 +4,9 @@
 - coding test
 - 이론
 ## 2. DataBase
+- DDL
+- DCL
+- 
 
 ## 3. OS
 
